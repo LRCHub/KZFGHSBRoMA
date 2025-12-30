@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "星期五晚上",
+  "base_artist": "Energy",
+  "createdAt": "2025-12-30T05:48:15.983868Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "星期五晚上",
+      "artist": "Energy",
+      "has_synced": true,
+      "path": "select/01_星期五晚上_Energy.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "星期五晚上 (慶功16蹲版)",
+      "artist": "Energy",
+      "has_synced": true,
+      "path": "select/02_星期五晚上_(慶功16蹲版)_Energy.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "星期五晚上 (慶功16蹲版)",
+      "artist": "五月天 (Mayday) - Mayday",
+      "has_synced": true,
+      "path": "select/03_星期五晚上_(慶功16蹲版)_五月天_(Mayday)_-_Mayday.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "星期五晚上 (慶功16蹲版)",
+      "artist": "五月天",
+      "has_synced": true,
+      "path": "select/04_星期五晚上_(慶功16蹲版)_五月天.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "星期五晚上",
+      "artist": "Energy",
+      "has_synced": false,
+      "path": "select/pl_01_星期五晚上_Energy.txt"
+    }
+  ]
+}
